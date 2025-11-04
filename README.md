@@ -18,7 +18,7 @@ This script is a direct adaptation of the excellent ["Open in Apollo" userscript
 
 ### iOS (Recommended for Safari)
 1. Install the free [Userscripts app](https://apps.apple.com/us/app/userscripts/id1463298887) from the App Store.
-2. Download this script: [open-in-winston.user.js](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-in-winston/main/open-in-winston.user.js).
+2. Download this script: [open-in-winston.user.js](https://raw.githubusercontent.com/DivineOpinion/open-in-winston/main/open-in-winston.user.js).
 3. Open the Userscripts app, tap the "+" button, and import the downloaded `.user.js` file.
 4. Enable the script in the app's settings for Safari.
 5. In Safari, grant permissions if prompted.
@@ -27,8 +27,6 @@ This script is a direct adaptation of the excellent ["Open in Apollo" userscript
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Firefox/Edge) or [Violentmonkey](https://violentmonkey.github.io/) (open-source alternative).
 2. Click the extension icon > "Create a new script" > Paste the contents of [open-in-winston.user.js](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-in-winston/main/open-in-winston.user.js).
 3. Save and enable.
-
-**Note**: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the raw links above.
 
 ## Usage
 
