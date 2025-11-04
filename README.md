@@ -1,6 +1,6 @@
 # Open in Winston
 
-A userscript that redirects Reddit links to open directly in the [Winston Reddit client](https://apps.apple.com/us/app/winston-for-reddit/id6502797753) on iOS devices. When clicking a Reddit link in Safari (e.g., from Google, Bing, or other search engines), it prevents Safari from loading the Reddit page and instead prompts to open in Winston.
+A userscript that redirects Reddit links to open directly in the [Winston Reddit client](https://github.com/Kinark/winstonon) on iOS devices. When clicking a Reddit link in Safari (e.g., from Google, Bing, or other search engines), it prevents Safari from loading the Reddit page and instead prompts to open in Winston.
 
 This script is a direct adaptation of the excellent ["Open in Apollo" userscript](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress, modified to support Winston's URL scheme.
 
