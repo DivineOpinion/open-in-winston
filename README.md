@@ -64,4 +64,4 @@ Pull requests welcome! For major changes, open an issue first.
 
 ## Changelog
 
-- **v1.1.0** (Initial Release): Adapted from Apollo script, added Winston support.
+- **v1.0.0** (Initial Release): Adapted from Apollo script, added Winston support.
